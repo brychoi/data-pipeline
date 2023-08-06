@@ -14,7 +14,7 @@ This repository contains a Python data pipeline for transforming and cleansing b
 3. Place your dataset in the following directory :  
 "data/raw/measurements.csv"
 
-4. Run application : `python data-pipeline.py`
+4. Run application : `python data_pipeline.py`
 
 5. After the pipeline completes, you will find the transformed csv file in the `data/processed/` folder.
 
